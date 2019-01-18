@@ -1,0 +1,9 @@
+{
+    "site_url":"http://room-live.com:1000",
+    "api_url":"http://api.room-live.com/index.php/",
+    "port":1000,
+    "site_setting":{
+        "site_name":"Room live",
+        "description":"Social network"
+    }
+}

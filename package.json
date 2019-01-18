@@ -1,0 +1,24 @@
+{
+  "name": "frontend-sv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://lemiho@bitbucket.org/lemiho/frontend-sv.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/lemiho/frontend-sv#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "nodemon": "^1.18.5",
+    "request": "^2.88.0",
+    "socket.io": "^2.1.1"
+  }
+}
